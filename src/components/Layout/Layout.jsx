@@ -9,6 +9,7 @@ const Layout = () => {
   return (
     <Fragment>
      <Header />
+     <Footer />
     </Fragment>
   );
 };

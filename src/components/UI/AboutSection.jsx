@@ -17,15 +17,10 @@ const AboutSection = ({ aboutClass }) => {
         <Row>
           <Col lg="6" md="6">
             <div className="about__section-content">
-              <h4 className="section__subtitle">About Us</h4>
+             
               <h2 className="section__title">Welcome to car rent service</h2>
               <p className="section__description">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                Voluptatum blanditiis esse accusantium dignissimos labore
-                laborum. Veniam, corporis mollitia temporibus, in quaerat vero
-                deleniti amet dolorem repudiandae, pariatur nam dolore! Impedit
-                neque sit ad temporibus quam similique dolor ipsam praesentium
-                sunt.
+              Find cars for sale, local dealers, and advice. Also, our price-badging and price-drop notifications keep you informed of potential deals.
               </p>
 
               <div className="about__section-item d-flex align-items-center">

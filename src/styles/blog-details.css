@@ -36,6 +36,7 @@ blockquote {
 .comment__btn {
   background: #000d6b !important;
   color: #fff !important;
+  
 }
 
 .recent__blog-item h6 a {
@@ -58,6 +59,8 @@ blockquote {
     padding: 5px 10px;
     font-size: 0.8rem;
     margin-top: 0px !important;
+    margin-left: 0 !important;
+    background-color: aqua !important;
   }
 
   .leave__comment-form h4 {

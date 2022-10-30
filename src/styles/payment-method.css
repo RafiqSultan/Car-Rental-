@@ -10,4 +10,12 @@
   color: #fff;
   border: none;
   outline: none;
+  margin-bottom: 50px;
+}
+
+@media (max-width:768px) {
+  .payment button {
+    margin-right:11rem !important;
+    
+  }
 }
